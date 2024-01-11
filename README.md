@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/furkanoztrk/furkanoztrk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/furkanoztrk//output/snake.svg" alt="Snake animation" />
 
 ###
